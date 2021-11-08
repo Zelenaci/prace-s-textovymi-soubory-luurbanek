@@ -8,7 +8,7 @@ from random import randint, choice
 
 ############################################################################
 
-změna = 3+3+3
+změna = 3+3+3+3
 print(změna)
 
 def f():
