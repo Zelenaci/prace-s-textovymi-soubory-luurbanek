@@ -98,3 +98,6 @@ def sentence_gen(maxwords, file2):
 
 if __name__ == "__main__":
     menu()
+
+#celý main jsem opsal od spolužáka v naději že mi to pomůže celou problematiku pochopit, nebo alespoň pochopit jak má program fungovat a co má dělat, bohužel mi to moc nepomohlo, takže jsem nezvládnul nic, ani opsaný kód se mi nepodařilo zprovoznit.
+#Taky se mi nedaří vytvořit pull request a celkově pochopit jak funguje github, je to pro mě španělská vesnice
